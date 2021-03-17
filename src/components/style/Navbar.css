@@ -1,0 +1,15 @@
+.Navbar {
+  width: 100%;
+  padding: 0.5rem 0;
+  background-image: url('../images/nav.png');
+  background-size: 100%;
+}
+
+.opciones{
+  margin-left: 5em;
+  font-weight: bold;
+}
+.opciones h2{
+  font-weight: bold;
+  font-size: large;
+}
